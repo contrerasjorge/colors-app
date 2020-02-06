@@ -1,3 +1,3 @@
 # colors-app
 
-Built with react.
+A color picker app that is built with React.
